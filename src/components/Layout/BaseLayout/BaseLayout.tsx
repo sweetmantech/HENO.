@@ -4,11 +4,11 @@ import Navbar from "@/components/Navbar"
 import CameraFeed from "@/components/CameraFeed"
 import CameraFeedProvider from "@/providers/CameraFeedProvider"
 import SocialLinks from "@/components/SocialLinks"
-import { usePageLoad } from "@/providers/PageLoadProvider"
+import { usePageLoadProvider } from "@/providers/PageLoadProvider"
 import { ILayout } from "../types"
 
 const BaseLayout = ({ children }: ILayout) => {
-  const { entered } = usePageLoad()
+  const { entered } = usePageLoadProvider()
 
   return (
     <div className="w-screen h-screen py-[30px] px-[50px]">
