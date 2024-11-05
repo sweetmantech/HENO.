@@ -15,7 +15,21 @@ const PageLoadProvider = ({ children }) => {
   const videoRef = useRef(null) as any
   const pathname = usePathname()
   const isEmployeePage = pathname.includes("/employee")
+  const audioRef = useRef(null) as any
 
+  const playAudio = () => {
+    audioRef.current = new Audio(
+      "/INSTRUMENTAL 4 Heno_MadKeys Lemons Made Better GS INSTRUMENTAL 24 bit 48khz 082324 01 (1).wav",
+    )
+    const audio = audioRef.current
+
+    const handleLoadedMetadata = () => {
+      audio.volume = 0.5
+      audioRef.current.play()
+    }
+
+    audio.addEventListener("loadedmetadata", handleLoadedMetadata)
+  }
   // eslint-disable-next-line react-hooks/exhaustive-deps
   const grantCamera = async () => {
     try {
@@ -50,8 +64,9 @@ const PageLoadProvider = ({ children }) => {
       setStream,
       grantCamera,
       videoRef,
+      playAudio
     }),
-    [entered, setEntered, liveTime, granted, setGranted, stream, setStream, grantCamera, videoRef],
+    [entered, setEntered, liveTime, granted, setGranted, stream, setStream, grantCamera, videoRef, playAudio],
   )
 
   return <PageLoadContext.Provider value={value}>{children}</PageLoadContext.Provider>
