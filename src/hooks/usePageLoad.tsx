@@ -13,7 +13,7 @@ const usePageLoad = () => {
   const isEmployeePage = pathname.includes("/employee")
   const audioRef = useRef(null) as any
 
-  const playAudio = audioRef.current.play()
+  const playAudio = () => audioRef.current.play()
 
   // eslint-disable-next-line react-hooks/exhaustive-deps
   const grantCamera = async () => {
