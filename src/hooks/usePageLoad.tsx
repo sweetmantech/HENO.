@@ -13,19 +13,8 @@ const usePageLoad = () => {
   const isEmployeePage = pathname.includes("/employee")
   const audioRef = useRef(null) as any
 
-  const playAudio = () => {
-    audioRef.current = new Audio(
-      "/INSTRUMENTAL 4 Heno_MadKeys Lemons Made Better GS INSTRUMENTAL 24 bit 48khz 082324 01 (1).wav",
-    )
-    const audio = audioRef.current
+  const playAudio = audioRef.current.play()
 
-    const handleLoadedMetadata = () => {
-      audio.volume = 0.5
-      audioRef.current.play()
-    }
-
-    audio.addEventListener("loadedmetadata", handleLoadedMetadata)
-  }
   // eslint-disable-next-line react-hooks/exhaustive-deps
   const grantCamera = async () => {
     try {
@@ -48,6 +37,19 @@ const usePageLoad = () => {
   useEffect(() => {
     if (isEmployeePage) setEntered(true)
   }, [isEmployeePage])
+
+  useEffect(() => {
+    audioRef.current = new Audio(
+      "/INSTRUMENTAL 4 Heno_MadKeys Lemons Made Better GS INSTRUMENTAL 24 bit 48khz 082324 01 (1).wav",
+    )
+    const audio = audioRef.current
+
+    const handleLoadedMetadata = () => {
+      audio.volume = 0.5
+    }
+
+    audio.addEventListener("loadedmetadata", handleLoadedMetadata)
+  }, [])
 
   return {
     entered,
