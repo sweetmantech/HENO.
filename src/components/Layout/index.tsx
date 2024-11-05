@@ -1,6 +1,6 @@
 import LoadingPage from "@/components/LoadingPage"
 import ContactProvider from "@/providers/ContactProvider"
-import { usePageLoad } from "@/providers/PageLoadProvider"
+import { usePageLoadProvider } from "@/providers/PageLoadProvider"
 import EmployeeProvider from "@/providers/EmployeeProvider"
 import BaseLayout from "./BaseLayout"
 import MobileLayout from "./MobileLayout"
@@ -19,7 +19,7 @@ interface ILayoutFactory extends ILayout {
 
 function Layout({ children, type }: ILayoutFactory) {
   const Container = layoutContainers[type]
-  const { entered } = usePageLoad()
+  const { entered } = usePageLoadProvider()
 
   return (
     <ContactProvider>

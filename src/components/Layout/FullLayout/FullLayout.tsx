@@ -1,11 +1,11 @@
 import React from "react"
 import Navbar from "@/components/Navbar"
-import { usePageLoad } from "@/providers/PageLoadProvider"
+import { usePageLoadProvider } from "@/providers/PageLoadProvider"
 import SocialLinks from "@/components/SocialLinks"
 import { ILayout } from "../types"
 
 const FullLayout = ({ children }: ILayout) => {
-  const { entered } = usePageLoad()
+  const { entered } = usePageLoadProvider()
 
   return (
     <div className="w-screen h-screen py-[30px] px-[50px]">

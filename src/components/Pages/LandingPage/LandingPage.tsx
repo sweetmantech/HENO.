@@ -1,6 +1,6 @@
 "use client"
 
-import { usePageLoad } from "@/providers/PageLoadProvider"
+import { usePageLoadProvider } from "@/providers/PageLoadProvider"
 import DraggableModal from "@/components/Core/DraggableModal"
 import { useState } from "react"
 import useIsMobile from "@/hooks/useIsMobile"
@@ -12,7 +12,7 @@ import PresaveAlbumContent from "../PresaveAlbumContent"
 
 const LandingPage = () => {
   const { openPopUp } = usePopupWidget() as any
-  const { entered } = usePageLoad()
+  const { entered } = usePageLoadProvider()
   const isMobile = useIsMobile()
   const [isBonsaiOpen, setIsBonsaiOpen] = useState<any>(true)
 
