@@ -28,7 +28,7 @@ const PresaveAlbumContent = () => {
             className="text-xs border px-2 py-1"
             onClick={() => window.open("https://nfan.link/henomadkeys", "_blank")}
           >
-            Presave Lemons Made Better
+            Lemons Made Better out now
           </button>
         </div>
         <RecBar />
