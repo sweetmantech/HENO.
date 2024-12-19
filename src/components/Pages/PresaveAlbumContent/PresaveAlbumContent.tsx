@@ -26,7 +26,7 @@ const PresaveAlbumContent = () => {
           <button
             type="button"
             className="text-xs border px-2 py-1"
-            onClick={() => window.open("https://nfan.link/henomadkeys", "_blank")}
+            onClick={() => window.open("https://ffm.to/lemonsmadebetter", "_blank")}
           >
             Lemons Made Better out now
           </button>
