@@ -15,11 +15,11 @@ const MusicSlider = ({ isPopup }) => (
         1560: {
           slidesPerView: isPopup ? 2 : 4,
         },
-        1340: {
-          slidesPerView: isPopup ? 2 : 4,
+        1386: {
+          slidesPerView: isPopup ? 2 : 3,
         },
         1060: {
-          slidesPerView: isPopup ? 2 : 4,
+          slidesPerView: isPopup ? 2 : 3,
         },
       },
       mousewheel: {
