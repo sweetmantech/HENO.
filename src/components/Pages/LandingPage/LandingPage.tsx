@@ -8,7 +8,7 @@ import { SCREENS } from "@/lib/screens"
 import { usePopupWidget } from "@/providers/PopupWidgetProvider"
 import LandingCard from "../../LandingCard"
 import Layout from "../../Layout"
-import PresaveAlbumContent from "../PresaveAlbumContent"
+import CTAContent from "../CTAContent"
 
 const LandingPage = () => {
   const { openPopUp } = usePopupWidget() as any
@@ -65,7 +65,7 @@ const LandingPage = () => {
           handleClose={() => setIsBonsaiOpen(!isBonsaiOpen)}
           isVisible={isBonsaiOpen}
         >
-          <PresaveAlbumContent />
+          <CTAContent />
         </DraggableModal>
       )}
     </Layout>
