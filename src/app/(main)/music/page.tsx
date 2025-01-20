@@ -4,7 +4,7 @@ import MusicPage from "@/components/Pages/MusicPage"
 export const metadata: Metadata = {
   title: "HENO. MUSIC",
   description: "WELCOME",
-  icons: [{ url: "/images/Landing/music.png" }],
+  icons: [{ url: "/images/Landing/music.JPG" }],
   keywords: [],
   openGraph: {
     type: "website",
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "HENO. MUSIC",
     description: "WELCOME",
     siteName: "@HENO",
-    images: [{ url: "/images/Landing/music.png" }],
+    images: [{ url: "/images/Landing/music.JPG" }],
   },
 }
 

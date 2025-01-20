@@ -4,7 +4,7 @@ import PressPage from "@/components/Pages/PressPage"
 export const metadata: Metadata = {
   title: "HENO. PRESS",
   description: "WELCOME",
-  icons: [{ url: "/images/Landing/press.jpeg" }],
+  icons: [{ url: "/images/Landing/press.png" }],
   keywords: [],
   openGraph: {
     type: "website",
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "HENO. PRESS",
     description: "WELCOME",
     siteName: "@HENO",
-    images: [{ url: "/images/Landing/press.jpeg" }],
+    images: [{ url: "/images/Landing/press.png" }],
   },
 }
 

@@ -4,7 +4,7 @@ import Web3Page from "@/components/Pages/Web3Page"
 export const metadata: Metadata = {
   title: "HENO. WEB3",
   description: "WELCOME",
-  icons: [{ url: "/images/Landing/web3.jpeg" }],
+  icons: [{ url: "/images/Landing/web3.JPEG" }],
   keywords: [],
   openGraph: {
     type: "website",
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "HENO. WEB3",
     description: "WELCOME",
     siteName: "@HENO",
-    images: [{ url: "/images/Landing/web3.jpeg" }],
+    images: [{ url: "/images/Landing/web3.JPEG" }],
   },
 }
 
