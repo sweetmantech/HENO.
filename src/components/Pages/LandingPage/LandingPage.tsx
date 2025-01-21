@@ -24,7 +24,7 @@ const LandingPage = () => {
       >
         <LandingCard
           title="ABOUT"
-          img="/images/Landing/about.jpeg"
+          img="/images/Landing/about.png"
           onClick={() => openPopUp(SCREENS.ABOUT_SCREEN.screenName)}
           cctvNumber={1}
         />
@@ -36,7 +36,7 @@ const LandingPage = () => {
         />
         <LandingCard
           title="WEB 3"
-          img="/images/Landing/web3.JPEG"
+          img="/images/Landing/web3.jpeg"
           onClick={() => openPopUp(SCREENS.WEB3_SCREEN.screenName)}
           cctvNumber={3}
         />
