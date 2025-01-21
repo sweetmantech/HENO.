@@ -4,7 +4,7 @@ import LandingPage from "@/components/Pages/LandingPage"
 export const metadata: Metadata = {
   title: "HENO. HOME",
   description: "WELCOME",
-  icons: [{ url: "/images/Landing/about.jpeg" }],
+  icons: [{ url: "/images/Landing/about.png" }],
   keywords: [],
   openGraph: {
     type: "website",
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: "HENO. HOME",
     description: "WELCOME",
     siteName: "@HENO",
-    images: [{ url: "/images/Landing/about.jpeg" }],
+    images: [{ url: "/images/Landing/about.png" }],
   },
 }
 
