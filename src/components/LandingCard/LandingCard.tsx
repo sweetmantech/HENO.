@@ -14,16 +14,25 @@ const LandingCard = ({ title, img = "/images/Landing/web3.jpg", onClick, cctvNum
     >
       <div className="relative p-[10px] md:p-4 flex flex-col items-center justify-center border-darkgray border h-full">
         <div className="absolute inset-0 z-0">
-          <Image
-            src={img}
-            alt={title}
-            layout="fill"
-            objectFit="cover"
-            objectPosition="center"
-            placeholder="blur"
-            blurDataURL={img}
-            unoptimized
-          />
+          {cctvNumber === 2 ? (
+            <div
+              className="size-full bg-[center_-80px] md:bg-[center_-125px]"
+              style={{
+                backgroundImage: `url(${img})`,
+                backgroundSize: "cover",
+              }}
+            />
+          ) : (
+            <Image
+              src={img}
+              alt={title}
+              layout="fill"
+              objectFit="cover"
+              placeholder="blur"
+              blurDataURL={img}
+              unoptimized
+            />
+          )}
         </div>
         <div className="absolute inset-0 bg-[black] opacity-[0.75]" />
         <div className="absolute top-1 left-1 md:top-2 md:left-2 z-20">
