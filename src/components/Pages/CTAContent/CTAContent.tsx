@@ -28,7 +28,7 @@ const CTAContent = () => {
             className="text-xs border px-2 py-1"
             onClick={() => window.open("https://nfan.link/3H", "_blank")}
           >
-            Presave Triple H
+            Triple H Out Now
           </button>
         </div>
         <RecBar />
