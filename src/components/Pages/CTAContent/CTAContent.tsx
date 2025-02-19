@@ -30,7 +30,7 @@ const CTAContent = () => {
               className="text-xs border px-2 py-1"
               onClick={() => window.open("https://nfan.link/getmethere", "_blank")}
             >
-              Get Me There
+              {shouldVisibleFreeTickets ? "Presave" : "Listen"} Get Me There
             </button>
             {shouldVisibleFreeTickets && (
               <button
