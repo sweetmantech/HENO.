@@ -18,7 +18,7 @@ const CTAContent = () => {
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src="/images/henokeys3.jpeg"
+            src="/images/henokeysv3.jpeg"
             width={isMobile ? 180 : 200}
             height={isMobile ? 125 : 230}
             alt="not found presave album."
@@ -26,9 +26,9 @@ const CTAContent = () => {
           <button
             type="button"
             className="text-xs border px-2 py-1"
-            onClick={() => window.open("https://nfan.link/3H", "_blank")}
+            onClick={() => window.open("https://nfan.link/getmethere", "_blank")}
           >
-            Triple H Out Now
+            Get Me There
           </button>
         </div>
         <RecBar />
