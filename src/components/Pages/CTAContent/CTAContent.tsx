@@ -3,7 +3,6 @@ import useIsMobile from "../../../hooks/useIsMobile"
 
 const CTAContent = () => {
   const isMobile = useIsMobile()
-  const shouldVisibleFreeTickets = new Date("2025-02-22").getTime() > new Date().getTime()
 
   return (
     <div className="p-[5px] md:p-[10px] border-[2px] border-gray_1 h-full">
@@ -30,22 +29,15 @@ const CTAContent = () => {
               className="text-xs border px-2 py-1"
               onClick={() => window.open("https://nfan.link/getmethere", "_blank")}
             >
-              {shouldVisibleFreeTickets ? "Presave" : "Listen"} Get Me There
+              Listen Get Me There
             </button>
-            {shouldVisibleFreeTickets && (
-              <button
-                type="button"
-                className="text-xs border px-2 py-1"
-                onClick={() =>
-                  window.open(
-                    "https://www.eventbrite.com/e/heno-mad-keys-healing-out-loud-listening-event-tickets-1248900538129?utm_experiment=test_share_listing&aff=ebdsshios",
-                    "_blank",
-                  )
-                }
-              >
-                free tickets to listening event
-              </button>
-            )}
+            <button
+              type="button"
+              className="text-xs border px-2 py-1"
+              onClick={() => window.open("https://www.patreon.com/mynameisheno", "_blank")}
+            >
+              Join Heno. Community
+            </button>
           </div>
         </div>
         <RecBar />
