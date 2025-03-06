@@ -27,9 +27,9 @@ const CTAContent = () => {
             <button
               type="button"
               className="text-xs border px-2 py-1"
-              onClick={() => window.open("https://nfan.link/getmethere", "_blank")}
+              onClick={() => window.open("https://nfan.link/healingoutloud", "_blank")}
             >
-              Listen Get Me There
+              Presave the Album
             </button>
             <button
               type="button"
