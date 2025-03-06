@@ -47,7 +47,8 @@
     "styled-components": "^6.1.11",
     "swiper": "^9.4.1",
     "usehooks-ts": "^2.9.1",
-    "viem": "^1.5.3"
+    "viem": "^1.5.3",
+    "@actions/cache": "^4.0.0"
   },
   "devDependencies": {
     "@types/node": "^20",
