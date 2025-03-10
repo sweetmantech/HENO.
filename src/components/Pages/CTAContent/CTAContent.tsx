@@ -18,7 +18,7 @@ const CTAContent = () => {
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src="/images/henokeysv3.jpeg"
+            src="/images/cta.png"
             width={isMobile ? 180 : 200}
             height={isMobile ? 125 : 230}
             alt="not found presave album."
