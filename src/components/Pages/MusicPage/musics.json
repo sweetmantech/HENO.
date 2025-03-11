@@ -36,11 +36,15 @@
     "link": "https://ffm.to/lemonsmadebetter"
   },
   {
-    "assets": "/images/henokeys3.jpeg",
+    "assets": "/images/Music/henokeys3.jpeg",
     "link": "https://nfan.link/3H"
   },
   {
-    "assets": "/images/henokeysv3.jpeg",
+    "assets": "/images/Music/henokeysv3.jpeg",
     "link": "https://nfan.link/getmethere"
+  },
+  {
+    "assets": "/images/Music/healing.png",
+    "link": "https://healing-out-loud.vercel.app/"
   }
 ]
