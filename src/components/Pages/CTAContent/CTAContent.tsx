@@ -41,6 +41,13 @@ const CTAContent = () => {
             >
               Join Heno. Community
             </button>
+            <button
+              type="button"
+              className="text-xs border px-2 py-1"
+              onClick={() => window.open("https://healing-out-loud.vercel.app", "_blank")}
+            >
+              Share How You Feel
+            </button>
           </div>
         </div>
         <RecBar />
