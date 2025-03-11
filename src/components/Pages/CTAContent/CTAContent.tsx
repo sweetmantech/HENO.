@@ -3,6 +3,7 @@ import useIsMobile from "../../../hooks/useIsMobile"
 
 const CTAContent = () => {
   const isMobile = useIsMobile()
+  const healingActive = Date.now() > new Date("2025-03-14").getTime()
 
   return (
     <div className="p-[5px] md:p-[10px] border-[2px] border-gray_1 h-full">
@@ -29,7 +30,9 @@ const CTAContent = () => {
               className="text-xs border px-2 py-1"
               onClick={() => window.open("https://nfan.link/healingoutloud", "_blank")}
             >
-              Presave the Album
+              {healingActive
+                ? `"Healing Out Loud" (Album) Out Now`
+                : `Presave "Healing Out Loud" Album`}
             </button>
             <button
               type="button"
