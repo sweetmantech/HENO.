@@ -3,7 +3,7 @@ import useIsMobile from "../../../hooks/useIsMobile"
 
 const CTAContent = () => {
   const isMobile = useIsMobile()
-  const healingActive = Date.now() > new Date("2025-11-15").getTime()
+  const healingActive = Date.now() > new Date("2025-03-15").getTime()
 
   return (
     <div className="p-[5px] md:p-[10px] border-[2px] border-gray_1 h-full">
