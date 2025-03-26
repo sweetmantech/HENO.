@@ -40,7 +40,7 @@ const MusicSlider = ({ isPopup }) => (
           blurLink={music.assets}
           link={music.assets}
           containerClasses={`${
-            isPopup ? "w-[130px]" : "w-[200px]"
+            isPopup ? "w-[160px]" : "w-[260px]"
           } aspect-[1/1] skew-y-[-5deg] rounded-[10px] overflow-hidden`}
         />
       </a>
