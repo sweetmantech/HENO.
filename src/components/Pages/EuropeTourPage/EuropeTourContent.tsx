@@ -13,7 +13,7 @@ const EuropeTourContent = ({ isPopup = false }) => (
         px-[15px] md:px-[20px] flex flex-col gap-y-[5px] ${
           isPopup ? "md:gap-y-[10px]" : "md:gap-y-[20px]"
         }`}
-      ></div>
+      />
       <RecBar cctvNumber={3} />
     </div>
   </div>
