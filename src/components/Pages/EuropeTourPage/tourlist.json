@@ -1,0 +1,947 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in K\u00f8benhavn K, Denmark",
+    "url": "https://www.bandsintown.com/e/106461712?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-04T19:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Denmark",
+        "addressLocality": "K\u00f8benhavn K",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "55.6740572",
+        "longitude": "12.5973313"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/106461712?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @  The Good Fight 10yrs Anniversary Tour in Stockholm, Sweden",
+    "url": "https://www.bandsintown.com/e/1033590864?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-05T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": " The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Sweden",
+        "addressLocality": "Stockholm",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "59.33344100000001",
+        "longitude": "18.055773"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033590864?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in Leipzig, Germany",
+    "url": "https://www.bandsintown.com/e/106517791?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-08T19:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Germany",
+        "addressLocality": "Leipzig",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.34481",
+        "longitude": "12.38551"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/106517791?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in Darmstadt, Germany",
+    "url": "https://www.bandsintown.com/e/1033102440?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-09T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Germany",
+        "addressLocality": "Darmstadt",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.8717716",
+        "longitude": "8.652649"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033102440?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in Cologne, Germany",
+    "url": "https://www.bandsintown.com/e/1033102384?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-10T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Germany",
+        "addressLocality": "Cologne",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "50.951817",
+        "longitude": "6.917097"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033102384?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @  The Good Fight 10yrs Anniversary Tour in Bruxelles, Belgium",
+    "url": "https://www.bandsintown.com/e/106226755?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-11T19:30:00",
+    "location": {
+      "@type": "Place",
+      "name": " The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Belgium",
+        "addressLocality": "Bruxelles",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "50.8472409",
+        "longitude": "4.3488349"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/106226755?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @  The Good Fight 10yrs Anniversary Tour in Amsterdam, Netherlands",
+    "url": "https://www.bandsintown.com/e/106226767?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-12T19:30:00",
+    "location": {
+      "@type": "Place",
+      "name": " The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Netherlands",
+        "addressLocality": "Amsterdam",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "52.364786",
+        "longitude": "4.8812489"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/106226767?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in Groningen, Netherlands",
+    "url": "https://www.bandsintown.com/e/1033577889?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-13T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Netherlands",
+        "addressLocality": "Groningen",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "53.2245437",
+        "longitude": "6.5641273"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033577889?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in Roeselare, Belgium",
+    "url": "https://www.bandsintown.com/e/106481620?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-15T19:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Belgium",
+        "addressLocality": "Roeselare",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "50.9526748",
+        "longitude": "3.1304645"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/106481620?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in M\u00fcnster, Germany",
+    "url": "https://www.bandsintown.com/e/1033102386?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-16T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Germany",
+        "addressLocality": "M\u00fcnster",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.93834",
+        "longitude": "7.62943"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033102386?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in Paris, France",
+    "url": "https://www.bandsintown.com/e/1032986939?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-17T19:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "France",
+        "addressLocality": "Paris",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "48.85341",
+        "longitude": "2.3488"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1032986939?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ Momo Festival 2025 in Rotterdam, Netherlands",
+    "url": "https://www.bandsintown.com/e/1033795895?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-18T18:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "Momo Festival 2025",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Netherlands",
+        "addressLocality": "Rotterdam",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.9256766",
+        "longitude": "4.4766061"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033795895?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in Bremen, Germany",
+    "url": "https://www.bandsintown.com/e/1033043650?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-19T21:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Germany",
+        "addressLocality": "Bremen",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "53.0715692",
+        "longitude": "8.816124600000002"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033043650?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in Erfurt, Germany",
+    "url": "https://www.bandsintown.com/e/1033102412?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-22T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Germany",
+        "addressLocality": "Erfurt",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "50.97168019999999",
+        "longitude": "11.03077559999997"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033102412?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in Hamburg, Germany",
+    "url": "https://www.bandsintown.com/e/1033026526?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-23T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Germany",
+        "addressLocality": "Hamburg",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "53.5496882",
+        "longitude": "9.9680125"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033026526?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in Berlin, Germany",
+    "url": "https://www.bandsintown.com/e/1033102079?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-24T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Germany",
+        "addressLocality": "Berlin",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "52.4992613",
+        "longitude": "13.4451284"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033102079?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in Dresden, Germany",
+    "url": "https://www.bandsintown.com/e/1033102438?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-25T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Germany",
+        "addressLocality": "Dresden",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.066511",
+        "longitude": "13.748846"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033102438?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @  The Good Fight 10yrs Anniversary Tour in Warszawa, Poland",
+    "url": "https://www.bandsintown.com/e/106226742?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-26T19:30:00",
+    "location": {
+      "@type": "Place",
+      "name": " The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Poland",
+        "addressLocality": "Warszawa",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "52.2231549",
+        "longitude": "21.0080022"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/106226742?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @  The Good Fight 10yrs Anniversary Tour  in Praha, Czech Republic",
+    "url": "https://www.bandsintown.com/e/1033324665?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-04-29T21:00:00",
+    "location": {
+      "@type": "Place",
+      "name": " The Good Fight 10yrs Anniversary Tour ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Czech Republic",
+        "addressLocality": "Praha",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "50.0740021",
+        "longitude": "14.4078536"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033324665?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in Beyo\u011flu, T\u00fcrkiye",
+    "url": "https://www.bandsintown.com/e/106562313?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-05-02T19:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "T\u00fcrkiye",
+        "addressLocality": "Beyo\u011flu",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "41.02491699999999",
+        "longitude": "28.981162"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/106562313?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in Vienna, Austria",
+    "url": "https://www.bandsintown.com/e/1033102305?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-05-03T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Austria",
+        "addressLocality": "Vienna",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "48.2068176",
+        "longitude": "16.376646"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033102305?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in Linz, Austria",
+    "url": "https://www.bandsintown.com/e/1033106720?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-05-04T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Austria",
+        "addressLocality": "Linz",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "48.3117477",
+        "longitude": "14.31144919999997"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033106720?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in Munich, Germany",
+    "url": "https://www.bandsintown.com/e/1033102169?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-05-05T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Germany",
+        "addressLocality": "Munich",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "48.133079",
+        "longitude": "11.589674999999943"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033102169?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight 10yrs Anniversary Tour in Stuttgart, Germany",
+    "url": "https://www.bandsintown.com/e/1033102315?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-05-07T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Germany",
+        "addressLocality": "Stuttgart",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "48.8079795",
+        "longitude": "9.2000207"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033102315?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @ The Good Fight Anniversary Tour in Winterthur, Switzerland",
+    "url": "https://www.bandsintown.com/e/106402372?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-05-08T19:30:00",
+    "location": {
+      "@type": "Place",
+      "name": "The Good Fight Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Switzerland",
+        "addressLocality": "Winterthur",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "47.4975354",
+        "longitude": "8.7222841"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/106402372?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @  The Good Fight 10yrs Anniversary Tour in Biel, Switzerland",
+    "url": "https://www.bandsintown.com/e/106110180?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-05-09T20:00:00",
+    "location": {
+      "@type": "Place",
+      "name": " The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Switzerland",
+        "addressLocality": "Biel",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "47.14169649999999",
+        "longitude": "7.2470281999999315"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/106110180?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Oddisee @  The Good Fight 10yrs Anniversary Tour in Gen\u00e8ve, Switzerland",
+    "url": "https://www.bandsintown.com/e/1033321595?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "startDate": "2025-05-10T19:00:00",
+    "location": {
+      "@type": "Place",
+      "name": " The Good Fight 10yrs Anniversary Tour",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Switzerland",
+        "addressLocality": "Gen\u00e8ve",
+        "addressRegion": ""
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "46.203982",
+        "longitude": "6.1360788"
+      }
+    },
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Oddisee",
+      "url": "https://www.bandsintown.com/Oddisee"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "url": "https://www.bandsintown.com/t/1033321595?app_id=squarespace-oddisee&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "availability": "available",
+        "category": "Tickets"
+      }
+    ]
+  }
+]
