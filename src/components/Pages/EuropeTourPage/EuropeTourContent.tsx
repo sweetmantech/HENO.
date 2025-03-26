@@ -23,13 +23,13 @@ const EuropeTourContent = ({ isPopup = false }) => (
             </div>
             <div className="flex flex-col md:flex-row gap-2 items-end md:items-center">
               <button
-                className="border text-sm px-2"
+                className="border text-xs md:text-sm px-2"
                 onClick={() => window.open(item.offers[0].url, "_blank")}
               >
                 Tickets
               </button>
               <button
-                className="border text-sm px-2"
+                className="border text-xs md:text-sm px-2"
                 onClick={() => window.open(item.url, "_blank")}
               >
                 RSVP
