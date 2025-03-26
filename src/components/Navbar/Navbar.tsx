@@ -25,7 +25,7 @@ const Navbar = () => {
 
   return (
     <>
-      <div className="w-full px-3 md:px-0 bg-darkgray md:bg-none flex justify-between items-center md:justify-start gap-x-[2px] md:gap-x-[10px]">
+      <div className="w-full px-3 md:px-0 bg-darkgray md:bg-transparent flex justify-between items-center md:justify-start gap-x-[2px] md:gap-x-[10px]">
         <Link href="/">
           <div
             className={`${navClasses}
