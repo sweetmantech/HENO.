@@ -20,8 +20,8 @@ const CTAContent = () => {
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src="/images/cta.png"
-            width={isMobile ? 180 : 200}
-            height={isMobile ? 125 : 230}
+            width={isMobile ? 180 : 270}
+            height={isMobile ? 125 : 250}
             alt="not found presave album."
           />
           <div className="space-y-2 flex flex-col">

@@ -23,7 +23,7 @@ const DraggableModal = ({ children, href, handleClose, isVisible = null }) => {
           onTouchStart={handleClose}
         />
         <Draggable scale={1} bounds="parent" allowAnyClick={false} handle=".handle">
-          <div className="w-[90%] md:w-[450px] h-[70%] md:h-[500px] relative z-[1000]">
+          <div className="w-[90%] md:w-[550px] h-[70%] md:h-[600px] relative z-[1000]">
             <motion.div
               className="flex flex-col bg-black
             h-full w-full p-[10px]"
