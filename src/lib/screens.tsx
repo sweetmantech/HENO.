@@ -1,3 +1,4 @@
+import EuropeTourContent from "@/components/Pages/EuropeTourPage/EuropeTourContent"
 import MusicContent from "../components/Pages/MusicPage/MusicContent"
 import AboutContent from "../components/Pages/AboutPage/AboutContent"
 import PressContent from "../components/Pages/PressPage/PressContent"
@@ -29,5 +30,10 @@ export const SCREENS = {
     screenName: "CONTACT_SCREEN",
     href: "/contact",
     screen: <ContactContent isPopup />,
+  },
+  EUROPE_TOUR_SCREEN: {
+    screenName: "EUROPE_TOUR_SCREEN",
+    href: "/europe-tour",
+    screen: <EuropeTourContent isPopup />,
   },
 }

@@ -1,8 +1,6 @@
-import Web3Socials from "@/components/Web3Socials"
-import Trailer from "./Trailer"
 import RecBar from "../../RecBar"
 
-const Web3Content = ({ isPopup = false }) => (
+const EuropeTourContent = ({ isPopup = false }) => (
   <div className="p-[5px] md:p-[10px] border-[2px] border-gray_1 h-full">
     <div
       className={`border-[1px] border-darkgray text-gray_1 font-dresden 
@@ -15,13 +13,10 @@ const Web3Content = ({ isPopup = false }) => (
         px-[15px] md:px-[20px] flex flex-col gap-y-[5px] ${
           isPopup ? "md:gap-y-[10px]" : "md:gap-y-[20px]"
         }`}
-      >
-        <Trailer isPopup={isPopup} />
-      </div>
-      <Web3Socials isPopup={isPopup} />
-      <RecBar cctvNumber={6} />
+      />
+      <RecBar cctvNumber={3} />
     </div>
   </div>
 )
 
-export default Web3Content
+export default EuropeTourContent

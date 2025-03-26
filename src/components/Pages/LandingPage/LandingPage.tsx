@@ -35,9 +35,9 @@ const LandingPage = () => {
           cctvNumber={2}
         />
         <LandingCard
-          title="WEB 3"
+          title="Europe Tour"
           img="/images/Landing/web3.jpeg"
-          onClick={() => openPopUp(SCREENS.WEB3_SCREEN.screenName)}
+          onClick={() => openPopUp(SCREENS.EUROPE_TOUR_SCREEN.screenName)}
           cctvNumber={3}
         />
         <LandingCard
