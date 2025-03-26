@@ -76,6 +76,7 @@ const Navbar = () => {
         </button>
         <button
           type="button"
+          onClick={() => openPopUp(SCREENS.EUROPE_TOUR_SCREEN.screenName)}
           className={`${navClasses}
         ${isEuropeTour ? "border-b-[2px] border-b-[#347fdb] md:!bg-[#347fdb]" : ""}`}
         >
