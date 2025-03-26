@@ -16,6 +16,7 @@ const EuropeTourContent = ({ isPopup = false }) => (
         }`}
       >
         {list.map((item, i) => (
+          // eslint-disable-next-line react/no-array-index-key
           <div key={i} className="flex justify-between">
             <div className="text-xs md:text-sm w-fit">
               <p className="text-left text-xs">{new Date(item.startDate).toLocaleString()}</p>
