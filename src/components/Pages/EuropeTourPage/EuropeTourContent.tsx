@@ -17,18 +17,21 @@ const EuropeTourContent = ({ isPopup = false }) => (
       >
         {list.map((item, i) => (
           <div key={i} className="flex justify-between">
-            <div className="text-sm w-fit">
+            <div className="text-xs md:text-sm w-fit">
               <p className="text-left text-xs">{new Date(item.startDate).toLocaleString()}</p>
-              <p className="text-left">{`${item.location.address.addressLocality}, ${item.location.address.addressCountry}`}</p>
+              <p className="text-left text-xs">{`${item.location.address.addressLocality}, ${item.location.address.addressCountry}`}</p>
             </div>
-            <div className="flex gap-2 items-center">
+            <div className="flex flex-col md:flex-row gap-2 items-end md:items-center">
               <button
-                className="border text-sm"
+                className="border text-sm px-2"
                 onClick={() => window.open(item.offers[0].url, "_blank")}
               >
                 Tickets
               </button>
-              <button className="border text-sm" onClick={() => window.open(item.url, "_blank")}>
+              <button
+                className="border text-sm px-2"
+                onClick={() => window.open(item.url, "_blank")}
+              >
                 RSVP
               </button>
             </div>
