@@ -26,12 +26,14 @@ const EuropeTourContent = ({ isPopup = false }) => (
               <button
                 className="border text-xs md:text-sm px-2"
                 onClick={() => window.open(item.offers[0].url, "_blank")}
+                type="button"
               >
                 Tickets
               </button>
               <button
                 className="border text-xs md:text-sm px-2"
                 onClick={() => window.open(item.url, "_blank")}
+                type="button"
               >
                 RSVP
               </button>
