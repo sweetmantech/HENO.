@@ -3,12 +3,14 @@ import { usePathname } from "next/navigation"
 import { usePopupWidget } from "../../providers/PopupWidgetProvider"
 import PopUpWindows from "../PopUpWindows/PopUpWindows"
 import { SCREENS } from "../../lib/screens"
+import useIsMobile from "@/hooks/useIsMobile"
 
 const Navbar = () => {
   const pathname = usePathname()
   // const { push } = useRouter()
 
   const { openPopUp } = usePopupWidget() as any
+  const isMobile = useIsMobile()
 
   const navClasses = `w-fit md:min-w-[80px] px-0 md:px-[10px] md:h-[40px]
   text-[7.5px] md:text-[16px] md:py-[5px] py-[2px] h-fit uppercase
@@ -17,10 +19,10 @@ const Navbar = () => {
   const isHomePage = pathname === "/"
   const isAboutPage = pathname.includes("/about")
   const isMusicPage = pathname.includes("/music")
-  const isWeb3Page = pathname.includes("/web3")
   const isPressPage = pathname.includes("/press")
   const isContactPage = pathname.includes("/contact")
   const isEuropeTour = pathname.includes("/europe-tour")
+  const isWeb3Page = pathname.includes("/web3")
   // const isEmployeePage = pathname.includes("/employee")
 
   return (
@@ -50,14 +52,16 @@ const Navbar = () => {
         >
           Music
         </button>
-        <button
-          type="button"
-          className={`${navClasses}
+        {!isMobile && (
+          <button
+            type="button"
+            className={`${navClasses}
         ${isWeb3Page ? "border-b-[2px] border-b-[#347fdb] md:!bg-[#347fdb]" : ""}`}
-          onClick={() => openPopUp(SCREENS.WEB3_SCREEN.screenName)}
-        >
-          Web3
-        </button>
+            onClick={() => openPopUp(SCREENS.WEB3_SCREEN.screenName)}
+          >
+            Web3
+          </button>
+        )}
         <button
           type="button"
           onClick={() => openPopUp(SCREENS.PRESS_SCREEN.screenName)}
