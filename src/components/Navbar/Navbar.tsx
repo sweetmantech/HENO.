@@ -1,9 +1,9 @@
 import Link from "next/link"
 import { usePathname } from "next/navigation"
+import useIsMobile from "@/hooks/useIsMobile"
 import { usePopupWidget } from "../../providers/PopupWidgetProvider"
 import PopUpWindows from "../PopUpWindows/PopUpWindows"
 import { SCREENS } from "../../lib/screens"
-import useIsMobile from "@/hooks/useIsMobile"
 
 const Navbar = () => {
   const pathname = usePathname()
