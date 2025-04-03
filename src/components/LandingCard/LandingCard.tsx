@@ -50,7 +50,9 @@ const LandingCard = ({ title, img = "/images/Landing/web3.jpg", onClick, cctvNum
           <p className="text-[white] text-[10px] md:text-xs">{getDateTimeString(liveTime)}</p>
         </div>
         <div className="relative z-10 p-2 md:p-6">
-          <h2 className="text-[white] text-[24px] md:text-5xl font-bold mb-2 uppercase">{title}</h2>
+          <h2 className="text-[white] text-[24px] md:text-5xl font-bold mb-2 uppercase text-center">
+            {title}
+          </h2>
         </div>
       </div>
     </div>
